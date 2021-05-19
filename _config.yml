@@ -31,4 +31,4 @@ exclude:
   - jekyll-rtd-theme.gemspec
 
   baseurl: ""
-  url: "https://github.com/jiyoungkim0413/study_python"
+  url: "https://jiyoungkim0413.github.io/study_python/"
